@@ -5,8 +5,8 @@ This project implements a Convolutional Neural Network (CNN) for classifying han
 ## Model Architecture
 ![Model Architecture](images/architecture.PNG)
 
-## Training Cost and Validation Accuracy
+## Training Cost and Validation Accuracy Progress
 ![Training Cost and Validation Accuracy](images/graph.png)
 
-## Validation Accuracy
-The model achieves a validation accuracy of 94.15% after 25 epochs of training.
+## Final Results
+The model achieves a validation accuracy of 94.15% and training loss is 1.47%  after 25 epochs of training.
